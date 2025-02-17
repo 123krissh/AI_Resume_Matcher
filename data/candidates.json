@@ -1,0 +1,266 @@
+[
+  {
+    "PERSON1": {
+      "Technical Skills": {
+        "Languages": ["Python", "R", "Java", "C++", "SQL"],
+        "Frontend": ["HTML5", "CSS3", "JavaScript", "React.js", "Vue.js"],
+        "Backend": ["Node.js", "Flask", "Django", "PHP"],
+        "Databases": ["MySQL", "MongoDB", "PostgreSQL"],
+        "Operating Systems": ["Linux", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Data Scientist Intern",
+          "Organization": "Amazon",
+          "Location": "Seattle, Washington",
+          "Duration": "June 2024 – Aug 2024",
+          "Responsibilities": [
+            "Worked on building machine learning models to predict customer behavior, resulting in a 12% increase in engagement.",
+            "Collaborated with the data engineering team to clean and process large datasets for predictive analysis."
+          ]
+        },
+        {
+          "Role": "Software Engineer Intern",
+          "Organization": "Microsoft",
+          "Location": "Redmond, Washington",
+          "Duration": "May 2023 – Aug 2023",
+          "Responsibilities": [
+            "Developed RESTful APIs using Flask and Python for internal tools.",
+            "Collaborated with cross-functional teams to implement data pipelines for real-time analytics."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "Customer Review Sentiment Analysis",
+          "Technologies": ["Python", "NLTK", "TensorFlow"],
+          "Duration": "Jan 2024 – May 2024",
+          "Description": "Developed a sentiment analysis model to classify customer reviews on products using NLP techniques."
+        },
+        {
+          "Title": "E-commerce Web App",
+          "Technologies": ["React.js", "Node.js", "MongoDB"],
+          "Duration": "Nov 2023 – Dec 2023",
+          "Description": "Built an e-commerce platform with user authentication, shopping cart, and payment gateway integration."
+        }
+      ],
+      "Salary Desired": "₹7,00,000 - ₹10,00,000 / year"
+    },
+    "PERSON2": {
+      "Technical Skills": {
+        "Languages": ["Python", "C++", "Java", "MATLAB", "R", "SQL"],
+        "Frontend": ["HTML5", "CSS3", "JavaScript", "React.js", "Vue.js"],
+        "Backend": ["Node.js", "Flask", "Django", "PHP"],
+        "DevOps & Tools": ["Docker", "AWS", "Git", "Jenkins", "Kubernetes"],
+        "Databases": ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
+        "Operating Systems": ["Linux", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Software Engineer Intern",
+          "Organization": "Google",
+          "Location": "Mountain View, California",
+          "Duration": "June 2024 – Aug 2024",
+          "Responsibilities": [
+            "Developed and deployed a feature for the Google Cloud platform, resulting in a 15% decrease in processing time for large datasets.",
+            "Created a tool using Python for automating repetitive tasks and data analysis, improving team efficiency by 25%.",
+            "Collaborated with cross-functional teams to optimize internal APIs, reducing downtime by 20%."
+          ]
+        },
+        {
+          "Role": "Full Stack Developer Intern",
+          "Organization": "Microsoft",
+          "Location": "Redmond, Washington",
+          "Duration": "May 2023 – Aug 2023",
+          "Responsibilities": [
+            "Developed web applications using React.js for the frontend and Node.js for the backend.",
+            "Created reusable components and integrated with various RESTful APIs, reducing development time by 30%.",
+            "Worked on the continuous integration and deployment pipeline using Jenkins, reducing deployment time by 40%."
+          ]
+        },
+        {
+          "Role": "Research Assistant",
+          "Organization": "Stanford University",
+          "Location": "Stanford, California",
+          "Duration": "Sept 2023 – Dec 2023",
+          "Responsibilities": [
+            "Researched machine learning models for natural language processing tasks and enhanced models' efficiency by 10%.",
+            "Published research on using deep learning models for time-series forecasting in machine learning journals."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "AI-powered Chatbot for Customer Support",
+          "Technologies": ["Python", "TensorFlow", "Django", "MongoDB"],
+          "Duration": "Jan 2024 – May 2024",
+          "Description": "Built an AI-powered chatbot using natural language processing models to provide customer support, integrated with MongoDB for data storage and Django for web framework."
+        },
+        {
+          "Title": "E-commerce Web App",
+          "Technologies": ["React.js", "Node.js", "MongoDB"],
+          "Duration": "Nov 2023 – Dec 2023",
+          "Description": "Developed a full-stack e-commerce web app with user authentication, cart management, and order processing functionality."
+        },
+        {
+          "Title": "Data Analytics Dashboard",
+          "Technologies": ["Python", "Pandas", "Plotly"],
+          "Duration": "Oct 2023 – Nov 2023",
+          "Description": "Created a data analytics dashboard that visualized trends and patterns from raw datasets, resulting in actionable insights for business decisions."
+        },
+        {
+          "Title": "Real-Time Collaborative Document Editor",
+          "Technologies": ["React.js", "Node.js", "Socket.io"],
+          "Duration": "July 2023 – Oct 2023",
+          "Description": "Developed a real-time collaborative document editor, enabling multiple users to edit documents simultaneously using WebSockets for real-time updates."
+        }
+      ],
+      "Salary Desired": "₹8,00,000 - ₹12,00,000 / year"
+    },
+    "PERSON3": {
+      "Technical Skills": {
+        "Languages": ["Java", "Python", "JavaScript", "C", "C++"],
+        "Frontend": ["React.js", "HTML5", "CSS3", "Bootstrap"],
+        "Backend": ["Node.js", "Express.js", "Django", "Flask"],
+        "DevOps & Tools": ["Docker", "AWS", "Git", "GitHub", "Jenkins"],
+        "Databases": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+        "Operating Systems": ["Linux", "MacOS", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Software Developer Intern",
+          "Organization": "Tata Consultancy Services",
+          "Location": "Chennai, Tamil Nadu",
+          "Duration": "Jan 2024 – March 2024",
+          "Responsibilities": [
+            "Built APIs for a cloud-based enterprise resource planning system using Java and Spring Boot.",
+            "Worked with AWS services like Lambda, S3, and EC2 to optimize backend processes.",
+            "Contributed to the development of a user authentication system using OAuth2, enhancing security."
+          ]
+        },
+        {
+          "Role": "Front-End Developer Intern",
+          "Organization": "Accenture",
+          "Location": "Bengaluru, Karnataka",
+          "Duration": "May 2023 – Aug 2023",
+          "Responsibilities": [
+            "Designed interactive UI components using React.js, improving user engagement by 18%.",
+            "Integrated RESTful APIs with React front end to fetch and display data dynamically.",
+            "Enhanced UI performance and load times by implementing lazy loading techniques and code-splitting."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "Portfolio Website",
+          "Technologies": ["React.js", "JavaScript", "CSS3"],
+          "Duration": "Sept 2023 – Oct 2023",
+          "Description": "Built a responsive personal portfolio website to showcase my projects and skills, utilizing React.js and CSS3 for smooth animations and interactions."
+        },
+        {
+          "Title": "Expense Tracker App",
+          "Technologies": ["JavaScript", "Node.js", "MongoDB"],
+          "Duration": "Aug 2023 – Sept 2023",
+          "Description": "Developed a full-stack expense tracker app to help users track their daily expenses and generate reports using Node.js and MongoDB."
+        },
+        {
+          "Title": "Chat Application",
+          "Technologies": ["JavaScript", "Socket.io", "Node.js"],
+          "Duration": "July 2023 – Aug 2023",
+          "Description": "Created a real-time chat application with private and group chat functionalities using Node.js and Socket.io."
+        }
+      ],
+      "Salary Desired": "₹6,00,000 - ₹8,00,000 / year"
+    },
+    "PERSON4": {
+      "Technical Skills": {
+        "Languages": ["Python", "Java", "C", "JavaScript", "SQL"],
+        "Frontend": ["HTML5", "CSS3", "React.js"],
+        "Backend": ["Node.js", "Flask", "Django"],
+        "Databases": ["MySQL", "MongoDB"],
+        "Operating Systems": ["Linux", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Backend Developer Intern",
+          "Organization": "Zoho",
+          "Location": "Chennai, Tamil Nadu",
+          "Duration": "May 2024 – Aug 2024",
+          "Responsibilities": [
+            "Designed and implemented microservices for the CRM system, improving scalability.",
+            "Developed APIs using Node.js and MongoDB for data storage."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "Online Quiz Platform",
+          "Technologies": ["Python", "Django", "PostgreSQL"],
+          "Duration": "Jan 2024 – May 2024",
+          "Description": "Developed a full-stack online quiz platform with real-time leaderboard updates using Django and PostgreSQL."
+        }
+      ],
+      "Salary Desired": "₹6,00,000 - ₹8,00,000 / year"
+    },
+    "PERSON5": {
+      "Technical Skills": {
+        "Languages": ["Python", "Java", "JavaScript", "C++"],
+        "Frontend": ["React.js", "Vue.js", "HTML", "CSS"],
+        "Backend": ["Node.js", "Flask"],
+        "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
+        "Operating Systems": ["Linux", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Software Engineer Intern",
+          "Organization": "Oracle",
+          "Location": "Bengaluru, Karnataka",
+          "Duration": "June 2024 – Aug 2024",
+          "Responsibilities": [
+            "Built a RESTful API using Flask for data storage and management.",
+            "Developed backend services in Python to support data analytics for Oracle Cloud products."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "Movie Booking System",
+          "Technologies": ["React.js", "Node.js", "MongoDB"],
+          "Duration": "Mar 2024 – May 2024",
+          "Description": "Built a movie booking system with user authentication, movie selection, and payment gateway integration."
+        }
+      ],
+      "Salary Desired": "₹7,00,000 - ₹9,00,000 / year"
+    },
+    "PERSON6": {
+      "Technical Skills": {
+        "Languages": ["Java", "Python", "C++", "JavaScript"],
+        "Frontend": ["React.js", "HTML5", "CSS3"],
+        "Backend": ["Node.js", "Express.js", "Spring Boot"],
+        "Databases": ["MySQL", "MongoDB", "PostgreSQL"],
+        "Operating Systems": ["Linux", "Windows"]
+      },
+      "Experience": [
+        {
+          "Role": "Machine Learning Intern",
+          "Organization": "IBM",
+          "Location": "Bengaluru, Karnataka",
+          "Duration": "May 2024 – Aug 2024",
+          "Responsibilities": [
+            "Worked on implementing machine learning algorithms to predict stock prices using historical data.",
+            "Collaborated with data scientists to improve model accuracy by 8%."
+          ]
+        }
+      ],
+      "Projects": [
+        {
+          "Title": "Stock Market Prediction",
+          "Technologies": ["Python", "TensorFlow", "Scikit-learn"],
+          "Duration": "Mar 2024 – May 2024",
+          "Description": "Developed a stock market prediction model using machine learning algorithms."
+        }
+      ],
+      "Salary Desired": "₹8,00,000 - ₹10,00,000 / year"
+    }
+  }
+]

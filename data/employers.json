@@ -1,0 +1,117 @@
+[
+ {
+        "ID" : 1,
+        "JobTitle": "Senior WordPress Developer",
+        "Location": "Greater Noida & neighboring cities",
+        "Salary": "₹5,00,000 - ₹6,00,000 / year",
+        "Experience": "Minimum 1 year",
+        "Qualification": "B.Tech",
+        "KeyResponsibilities": [
+          "Develop, customize, and maintain WordPress websites",
+          "Implement APIs, payment gateways, and CRM integrations",
+          "Optimize website speed, security, and performance",
+          "Deploy and manage hosting, DNS, and server setup",
+          "Collaborate with designers and content teams"
+        ],
+        "RequiredSkills": [
+          "WordPress, PHP, HTML5, CSS3, JavaScript, MySQL",
+          "Experience with Git, CI/CD pipelines, and cloud hosting",
+          "Strong problem-solving & debugging skills"
+        ],
+        "PreferredSkills": [
+          "SEO knowledge",
+          "AWS/Google Cloud experience"
+        ]
+      },
+      {
+        "ID" : 2,
+        "JobTitle": "Graphic Designer",
+        "Location": "Noida & neighboring cities",
+        "Salary": "₹2,00,000 - ₹3,00,000 / year",
+        "Experience": "Minimum 1 year",
+        "Qualification": "Any relevant field",
+        "Openings": 5,
+        "KeyResponsibilities": [
+          "Design graphics for websites, social media & print",
+          "Work with Figma, Adobe Illustrator, Photoshop & InDesign",
+          "Collaborate with marketing & content teams"
+        ],
+        "RequiredSkills": [
+          "Graphic design tools like Figma, Illustrator, Photoshop",
+          "Basic understanding of web design & HTML/CSS",
+          "Ability to work collaboratively in a team"
+        ]
+      },
+      {
+        "ID" : 3,
+        "JobTitle": "Cinematographer",
+        "Location": "Not specified",
+        "Salary": {
+          "DuringProbation": "₹10,000 - ₹15,000 / month (freshers)",
+          "AfterProbation": "₹2,00,000 - ₹3,00,000 / year"
+        },
+        "Openings": 2,
+        "KeyResponsibilities": [
+          "Shoot and edit high-quality videos",
+          "Use Adobe Premiere Pro & Photoshop for editing",
+          "Work with content teams to develop storyboards"
+        ],
+        "Perks": [
+          "Free snacks & beverages",
+          "Informal dress code"
+        ]
+      },
+      {
+        "ID" : 4,
+        "JobTitle": "Financial Sales Officer",
+        "Location": "Kurnool, Visakhapatnam, Warangal, Hyderabad & nearby cities",
+        "Salary": "₹4,00,000 - ₹4,30,000 / year",
+        "Experience": "Freshers or up to 1 year",
+        "Qualification": "Any graduate/postgraduate (2023 & 2024 batches)",
+        "Openings": 20,
+        "KeyResponsibilities": [
+          "Assist students in getting education loans",
+          "Communicate with bank officials & process applications",
+          "Handle student queries and eligibility checks"
+        ],
+        "RequiredSkills": [
+          "English Proficiency (Spoken)"
+        ],
+        "Perks": [
+          "5-day work week",
+          "Free snacks & beverages",
+          "Informal dress code"
+        ]
+      },
+      {
+        "ID" : 5,
+        "JobTitle": "Associate Content Writer",
+        "Location": "Not specified",
+        "Salary": "₹2,00,000 - ₹4,00,000 / year",
+        "WorkDetails": {
+          "WorkingDays": "Monday - Saturday",
+          "WorkMode": {
+            "WorkFromOffice": ["Monday", "Wednesday", "Friday"],
+            "WorkFromHome": ["Tuesday", "Thursday", "Saturday"]
+          }
+        },
+        "Openings": 1,
+        "KeyResponsibilities": [
+          "Write content for blogs, social media, emails & websites",
+          "Optimize content for SEO & digital marketing",
+          "Research industry trends and competitor activities"
+        ],
+        "RequiredSkills": [
+          "Blogging",
+          "Creative Writing",
+          "SEO",
+          "Digital Marketing",
+          "English Proficiency (Spoken & Written)",
+          "Social Media Marketing"
+        ],
+        "Perks": [
+          "Free snacks & beverages",
+          "Informal dress code"
+        ]
+   }
+]    
